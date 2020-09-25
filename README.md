@@ -1,9 +1,10 @@
-Day1:
+Home Page
 
 ![alt text](https://i.ibb.co/z4rj7xL/1sc.jpg)
 
 
----------------------------------------------
+Checkout Page
+
 ![alt text](https://i.ibb.co/FK6wZYQ/2sc.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
