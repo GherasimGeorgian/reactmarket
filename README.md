@@ -1,7 +1,11 @@
+Day1:
+
 ![alt text](https://i.ibb.co/z4rj7xL/1sc.jpg)
+
+
+---------------------------------------------
 ![alt text](https://i.ibb.co/FK6wZYQ/2sc.jpg)
 
-![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
